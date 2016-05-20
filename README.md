@@ -1,4 +1,4 @@
-# 8Queen
+# 8 Queen
 <img src="http://o7gy5l0ax.bkt.clouddn.com/queen.png" width = "48" height = "48" alt="FileView"/>
 
 ## Summary
