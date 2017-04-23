@@ -12,6 +12,7 @@ I study at the sophomore data structure, data structures and algorithms was very
 
 ## Demo
 <img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160520204213.png" width = "329" height = "338" alt="FileView"/>
+<img src="https://github.com/1anc3r/8-Queen/blob/master/2017-04-23_15-33-15.gif" width = "329" height = "338" alt="FileView"/>
 
 ## About Me
 A student of Xi'an University of Posts and Telecommunications in mainland China. Currently learning Android development.
