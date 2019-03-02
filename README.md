@@ -1,5 +1,5 @@
 # 8 Queen
-<img src="http://o7gy5l0ax.bkt.clouddn.com/queen.png" width = "96" height = "96" alt="FileView"/>
+<img src="https://github.com/1anc3r/8-Queen/blob/master/queen.png?raw=true" width = "96" height = "96" alt="FileView"/>
 
 ## Summary
 This is a Java program using the backtrack algorithm to achieve the 8 queen. 
